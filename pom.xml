@@ -7,4 +7,13 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<name>branchTest</name>
 	<description>Maven Projekt mit dem das Branchen getestet wird.</description>
+
+	<dependencies>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+	</dependencies>
+
 </project>
